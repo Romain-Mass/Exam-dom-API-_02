@@ -1,6 +1,6 @@
 const form = document.querySelector("form");
 const title1 = document.querySelector("#titre");
-const url1 = document.querySelector("#url");
+const URL = document.querySelector("#url");
 const desc = document.querySelector("#description");
 
 const container = document.querySelector(".favoris-container");
